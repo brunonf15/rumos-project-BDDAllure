@@ -1,4 +1,4 @@
-package steps;
+package calculator.Bdd.steps;
 
 import static org.junit.Assert.assertEquals;
 
